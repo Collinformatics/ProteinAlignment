@@ -1,0 +1,8 @@
+esm
+ipykernel
+jupyter
+ipywidgets
+torch
+py3Dmol
+biotite
+matplotlib
